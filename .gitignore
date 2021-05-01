@@ -1,3 +1,6 @@
+# Build Folder
+/[Bb]uild
+
 # Prerequisites
 *.d
 
